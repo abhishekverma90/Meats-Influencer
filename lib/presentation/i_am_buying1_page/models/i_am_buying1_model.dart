@@ -1,0 +1,1 @@
+class IAmBuying1Model { }

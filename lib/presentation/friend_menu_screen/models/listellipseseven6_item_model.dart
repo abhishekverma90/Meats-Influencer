@@ -1,0 +1,1 @@
+class Listellipseseven6ItemModel { }
